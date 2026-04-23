@@ -1,6 +1,6 @@
 # Portofolio - Raffa Hanif Awani
 
-## Project - A collection of my academic projects, IoT experiments, and telecommunications engineering work.
+## A collection of my academic projects, IoT experiments, and telecommunications engineering work.
 
 ### 📝 TodoList App Project
 A simple desktop todo list application built with Electron and Vite.  
