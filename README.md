@@ -10,5 +10,4 @@ It allows users to add, delete, and manage tasks efficiently with a clean interf
 ### RFID Attendance System Project
 An IoT-based attendance system using RFID and ESP8266.
 This project allows users to record attendance by scanning RFID cards, with real-time data automatically sent and stored in a Google Spreadsheet.
-
 👉 https://github.com/raffahanif/RFID-Attendance-System-Project
