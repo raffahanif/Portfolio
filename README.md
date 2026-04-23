@@ -1,4 +1,4 @@
-# Portofolio - Raffa Hanif Awani
+# Portfolio - Raffa Hanif Awani
 
 ## A collection of my academic projects, IoT experiments, and telecommunications engineering work.
 
